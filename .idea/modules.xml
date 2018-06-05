@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ddhq-base/ddhq-base.iml" filepath="$PROJECT_DIR$/ddhq-base/ddhq-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddhq-core/ddhq-core.iml" filepath="$PROJECT_DIR$/ddhq-core/ddhq-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddhq-parent.iml" filepath="$PROJECT_DIR$/ddhq-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddhq-web/ddhq-web.iml" filepath="$PROJECT_DIR$/ddhq-web/ddhq-web.iml" />
+    </modules>
+  </component>
+</project>
