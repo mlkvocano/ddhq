@@ -1,0 +1,10 @@
+server.port=8081
+server.contextPath=/myweb
+
+spring.velocity.charset=UTF-8
+spring.velocity.properties.input.encoding=UTF-8
+spring.velocity.properties.output.encoding=UTF-8
+spring.velocity.resourceLoaderPath=classpath:/templates/
+spring.velocity.prefix=/
+spring.velocity.suffix=.vm
+spring.velocity.toolbox-config-location=/WEB-INF/toolbox.xm
